@@ -1,0 +1,17 @@
+<script setup>
+import Banner from "./mains/Banner.vue";
+import Faq from "./mains/Faq.vue";
+import About from "./mains/About.vue";
+import Info from "./mains/Info.vue";
+import Serch from "./mains/Serch.vue";
+import Review from "./mains/Review.vue";
+</script>
+<template>
+  <Banner />
+  <About />
+  <Serch />
+  <Info />
+  <Review />
+  <Faq />
+</template>
+<style scoped></style>
